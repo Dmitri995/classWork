@@ -1,0 +1,33 @@
+{% extends 'app_news/base.html' %}
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>News</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h1>News</h1>-->
+<!--    <span style="color: red">{{ date_now }}</span>-->
+<!--    {% if news_categories%}-->
+<!--        <ul>-->
+<!--            {% for category in news_categories %}-->
+<!--                <li>{{category}}</li>-->
+<!--            {% endfor %}-->
+<!--        </ul>-->
+<!--    {% else %}-->
+<!--        <h3>No categories</h3>-->
+<!--    {% endif %}-->
+
+{% block news %}
+<ul>
+    {% for category in news_categories %}
+        <li>{{category}}</li>
+    {% empty %}
+        <h3>No categories</h3>
+    {% endfor %}
+</ul>
+{% endblock %}
+
+<!--    {% lorem 3 p random %}-->
+<!--</body>-->
+<!--</html>-->
