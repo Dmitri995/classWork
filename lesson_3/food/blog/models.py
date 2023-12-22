@@ -13,16 +13,24 @@ class Author(models.Model):
     def __str__(self):
         return f'{self.username}'
 
+
 class News(models.Model):
-    title = models.CharField(max_length=50, verbose_name='Заголовок',db_index=True)
+    title = models.CharField(max_length=50, verbose_name='Заголовок',
+                             db_index=True)
     content = models.TextField(verbose_name='Содержание', default='')
-    published_at = models.DateTimeField(auto_now_add=True, verbose_name='Дата публикации')
-    update_at = models.DateTimeField(auto_now=True)
+    published_at = models.DateTimeField(auto_now_add=True,
+                                        verbose_name='Дата публикации')
+    updated_at = models.DateTimeField(auto_now=True)
     status_choices = [
-        ('a', 'Active'), ('i', 'Inactive')
+        ('a', 'Active'),
+        ('i', 'Inactive')
     ]
-    activity_flag = models.CharField(max_length=1, choices=status_choices, default='1')
-    # author = models.ForeignKey(Author, verbose_name='автор', on_delete= models.CASCADE)
+    activity_flag = models.CharField(max_length=1, choices=status_choices,
+                                     default='i')
+    author = models.ForeignKey(Author, verbose_name='автор', on_delete=models.CASCADE)
+
+    def get_comments(self):
+        return self.comments.filter(active=True)
 
     class Meta:
         db_table = 'news'
@@ -35,3 +43,23 @@ class News(models.Model):
         return f'{self.title}'
 
 
+class Comment(models.Model):
+    email = models.EmailField(max_length=50, verbose_name='email')
+    username = models.CharField(max_length=20, verbose_name='логин')
+    comment = models.TextField(verbose_name='комментарий')
+    published_at = models.DateTimeField(auto_now_add=True, verbose_name='дата публикации')
+    news = models.ForeignKey(News, on_delete=models.CASCADE, verbose_name='новость')
+
+    name = models.CharField(max_length=80)
+    email = models.EmailField()
+    body = models.TextField()
+    created = models.DateTimeField(auto_now_add=True)
+    active = models.BooleanField(default=True)
+
+    class Meta:
+        db_table = 'comments'
+        verbose_name = 'комментарий'
+        verbose_name_plural = 'комментарии'
+
+    def __str__(self):
+        return f'{self.email}'
