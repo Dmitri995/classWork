@@ -7,6 +7,14 @@
 <body>
 <header>
     <h1>Shop app</h1>
+            <div style="display:flex;">
+            {% if request.user.is_authenticated %}
+                <p>Вы {{request.user.username}}</p>
+                <a href="{% url 'logout' %}">Logout</a>
+            {% else %}
+                <a href="{% url 'login' %}">Log in</a>
+            {% endif%}
+        </div>
     <a href="{% url 'main' %}">Главная страница</a>
     <a href="{% url 'catalog' %}">Каталог</a>
 </header>
