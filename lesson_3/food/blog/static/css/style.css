@@ -9,8 +9,8 @@ header{
 }
 
 .links{
-    display:flex;
-    width: 200px;
+    display: flex;
+    width: 200PX;
     justify-content: space-between;
 }
 
