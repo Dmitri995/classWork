@@ -9,14 +9,7 @@
       {% csrf_token %}
       {{form.as_p}}
       <button type="submit">Log in</button>
-<!--    <label for="login">Login: </label>-->
-<!--    <input name="username" id="login" type="text">-->
-<!--    <label for="password">Password: </label>-->
-<!--    <input name="password" id="password" type="password">-->
-<!--      <button type="submit">Log in</button>-->
   </form>
-<!--  {% if error %}-->
-<!--  <p style="color:red">{{error}}</p>-->
-<!--  {% endif %}-->
+    <a href="{% url 'register' %}">Try to sign up</a>
 </body>
 </html>
