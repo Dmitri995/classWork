@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05bd6564-f2c4-40ad-9797-cbb1fe71b7ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lesson_1/firstsite/firstsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_1/firstsite/firstsite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_2/blog/blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_2/blog/blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/blog/templates/blog/news-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/blog/templates/blog/news-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/food/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/food/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/apps/registry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/apps/registry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/conf/global_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/conf/global_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/checks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/checks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/sites.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/sites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admin/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admindocs/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/admindocs/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/base_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/base_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/checks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/checks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/context_processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/context_processors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/handlers/modwsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/handlers/modwsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/management/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/management/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/management/commands/changepassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/management/commands/changepassword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0011_update_proxy_permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0011_update_proxy_permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/contrib/auth/tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/db/migrations/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/db/migrations/state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/test/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/test/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/utils/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/django/utils/http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/network/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/pyparsing/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/pyparsing/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/setuptools/_distutils/command/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/setuptools/_distutils/command/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/setuptools/command/upload_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_3/food/venv/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/apps/registry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/apps/registry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/conf/global_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/conf/global_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/checks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/checks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/sites.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/sites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admin/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admindocs/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/admindocs/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/base_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/base_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/checks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/checks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/context_processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/context_processors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/handlers/modwsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/handlers/modwsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/management/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/management/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/management/commands/changepassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/management/commands/changepassword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0011_update_proxy_permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0011_update_proxy_permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/contrib/auth/tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/db/migrations/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/db/migrations/state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/test/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/test/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/django/utils/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/django/utils/http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/network/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/pyparsing/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/pyparsing/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/_distutils/command/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/_distutils/command/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/command/upload_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZcykCM04fbUv4ik4qWidzDDwVN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/pythonProject1"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lesson_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05bd6564-f2c4-40ad-9797-cbb1fe71b7ec" name="Changes" comment="" />
+      <created>1702735805553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702735805553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
